@@ -99,14 +99,3 @@ start_driver()
 get_links()
 writing_content_to_file()
 
-
-
-
-
-
-
-
-
-
-
-
